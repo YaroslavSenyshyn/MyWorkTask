@@ -1,3 +1,4 @@
-Open file - ExercisesMain.java;
-
-all files *.java have task description in file
+-all name and number in pdf file
+-download all java-file and try it for test   
+-open file - ExercisesMain.java;
+-all files *.java have task description in file
